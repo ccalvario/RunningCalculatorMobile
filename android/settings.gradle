@@ -1,0 +1,3 @@
+rootProject.name = 'RunningCalculatorMobile'
+
+include ':app'
